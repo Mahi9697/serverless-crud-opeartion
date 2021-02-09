@@ -18,6 +18,8 @@ Its compulsory that you have to install node and npm.
 
 if you are using linux for this so in the :-
 
+instead of set you can use export
+
 # Export Env variable
  export MY_API_KEY= Some text for api key generation
 
